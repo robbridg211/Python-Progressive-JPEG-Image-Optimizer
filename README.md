@@ -4,6 +4,6 @@ Instructions for easy set up:
 
 Move cjpeg and pngquant binaries to your MacOS home folder before use.
 
-Double-click "Creative Image Optimizer.workflow" to install the quick action. If prompted, choose Replace.
+Double-click "Progressive Image Optimizer.workflow" to install the quick action. If prompted, choose Replace.
 
-Right-click on any folder containing images to be optimized, and choose Quick Actions -> Creative Image Optimizer.
+Right-click on any folder containing images to be optimized, and choose Quick Actions -> Progressive Image Optimizer.
